@@ -1,0 +1,54 @@
+model chess knight 
+is taken from "Low Poly Chess Set" by hanoldaa,
+source: https://sketchfab.com/3d-models/low-poly-chess-set-0f440e2b01ca42f8b3fdee8178c51f20,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model grass
+is taken from "Realistics grass 07" by Digital screen official,
+source: https://sketchfab.com/3d-models/realistics-grass-07-475ee85b733c4ae9934d5dc6df442023,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model cactus 
+is modified from "Cactus | Pack" by YadroGames,
+source: https://sketchfab.com/3d-models/cactus-pack-588596f1601d48e6ad4cb24b31c3f33c,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model fern 
+is taken from "Low poly vegetation for games" by denoises,
+source: https://sketchfab.com/3d-models/low-poly-vegetation-for-games-cdac82eb61ab4d83bf162b4c44b44d6d
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model pine tree
+is modified from "Pine Tree - PS1 Low Poly" by Wersaus33,
+source: https://sketchfab.com/3d-models/pine-tree-ps1-low-poly-d71ceeb303644e649d09fe8038aa5e47,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model Kite Shield 1
+is taken from Kite Shield 1 by Lucian Pavel,
+source: https://opengameart.org/content/kite-shield-1,
+license: CC0 Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/).
+
+model palm tree 
+is taken from Stylized Tropical Pack by evolveduk,
+source: https://sketchfab.com/3d-models/stylized-tropical-pack-27c1fe68c5fb4272a47eaa8972684a64,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model ball cactus
+is modified from "Free Realistic Succulent Plants Pack" by TreDè, 
+source: https://sketchfab.com/3d-models/free-realistic-succulent-plants-pack-6a22ed22665743b6bc989978da95e32a,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model tumbleweed
+is modified from Tumbleweed by biggreenorange,
+source: https://sketchfab.com/3d-models/tumbleweed-e9fa341c64fe4626b5d5b0052b0c0b64,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+model short sword
+is taken from Short Sword by Lucian Pavel,
+source: https://opengameart.org/content/short-sword-0,
+license: CC0 Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/).
+
+model small bush
+is taken from Small bush by yanix,
+source https://sketchfab.com/3d-models/small-bush-f6ed4c70fc024ac88e8e6a19991695af,
+license: Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

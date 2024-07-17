@@ -1,0 +1,20 @@
+{
+    "name": "Chunk",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6184a2ff91a91d345bae92b76960786a",
+        "GUID:574a3175ee0d4790b95df93a21a107b2",
+        "GUID:4176ca0340aefb648a394c35a3fef679"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

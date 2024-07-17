@@ -1,0 +1,33 @@
+Texture sandTerrain was created by Michal Mráz 
+from texture Sand Ripples by marlborolt, 
+source: https://www.deviantart.com/marlborolt/art/Sand-Ripples-439027940, 
+license: marlborolt in a comment on the page under the art states it's "free to use and no credit mention needed".
+ 
+Texture brownSandTerrain was created by Michal Mráz 
+from texture "Seamless Sand - D648" by AGF81 and from texture Sand Ripples by marlborolt,
+source: https://www.deviantart.com/agf81/art/Seamless-Sand-D648-338741071, 
+license: Creative Commons Attribution 3.0 License
+
+Texture dirtTerrain was created by Michal Mráz 
+from texture Seamless Dirt by "n4" and from texture Sand Ripples by marlborolt,
+source: https://opengameart.org/content/seamless-dirt, 
+license: Creative Commons CC0
+
+Texture grassTerrain was created by Michal Mráz 
+from texture "Green Grass Texture 01" by SimoonMurray and from texture Sand Ripples by marlborolt,
+source: https://www.deviantart.com/simoonmurray/art/Green-Grass-Texture-01-155704377, 
+license: Creative Commons Attribution 3.0 License
+
+Texture parchment was created by Michal Mráz 
+from textures Parchement Textures by VWolfdog, 
+source: https://opengameart.org/content/parchement-textures, 
+license: Creative Commons CC0
+
+Texture daylightSkybox was created by Michal Mráz, 
+from texture "Sky Box - Sunny Day" by Chad Wolfe, upscaled using AI,
+source: https://opengameart.org/content/sky-box-sunny-day, 
+license: CC BY 3.0.
+
+Texture joystick handle was created by Michal Mráz.
+
+Texture joystick background was created by Michal Mráz.
