@@ -13,5 +13,5 @@ The user manual can be found in appendix B of the thesis. Thesis can be found he
 The program downloads data from Google Elevation API and for that it needs an API key. 
 You can enter your Google API key in the file Settings.cs that can be found here: Assets/Scripts/Common
 
-<img src="https://github.com/user-attachments/assets/5957d075-fbde-457d-b5d0-541ca97f9305" width="700" />
+<img src="https://github.com/mrazmichal/biomes/blob/main/screen.png" width="700" />
 
