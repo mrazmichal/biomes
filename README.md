@@ -14,4 +14,5 @@ The program downloads data from Google Elevation API and for that it needs an AP
 You can enter your Google API key in the file Settings.cs that can be found here: Assets/Scripts/Common
 
 Screenshot of the prototype:
+
 <img src="https://github.com/user-attachments/assets/538aa1fb-94ca-4aee-bee3-4cf24ca9fcfb" width="250" />
