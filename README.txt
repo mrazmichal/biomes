@@ -14,4 +14,5 @@ The program downloads data from Google Elevation API and for that it needs an AP
 You can enter your Google API key in the file Settings.cs that can be found here: Assets/Scripts/Common
 
 <img src="https://github.com/mrazmichal/biomes/blob/main/screen.png" width="700" />
+![](https://github.com/mrazmichal/biomes/blob/main/screen.png)
 
