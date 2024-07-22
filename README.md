@@ -1,6 +1,5 @@
-About the program:
-The goal of this project is to design and implement a system that procedurally generates game environment.
-The environment is geolocalized with biomes and vegetation.
+The goal of this project was to design and implement a system that procedurally generates game environment.
+The environment is geolocalized and contains generated biomes and vegetation.
 The target devices are mobile phones where the generation is done in real time. 
 The generated environment is then tested with real users using a simple game prototype.
 
