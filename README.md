@@ -10,7 +10,7 @@ You can enter your Google API key in the file Settings.cs that can be found here
 Some folders have their own README, ATTRIBUTION or LICENSE files. Please read them for more information.
 The code was written with the help of AI tools ChatGPT and GitHub Copilot.
 
-The user manual can be found in appendix B of the thesis. The thesis can be found here: https://dspace.cvut.cz/handle/10467/115009
+The user manual can be found in appendix B of the thesis. The diploma thesis can be found here: https://dspace.cvut.cz/handle/10467/115009
 
 Screenshot of the prototype:
 
